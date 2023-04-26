@@ -7,5 +7,5 @@ In the file DataBase you can find the databse with the suitable table for the en
 In order to connect the application to the database, 
 please do not forget to open the application.properties file located at src/main/resources/application.properties and:
 1)specify the username, passwort of your datasource
-2)eventually change the connection port to the datanase metioned in the pring.datasource.url
+2)eventually change the connection port to the database metioned in the spring.datasource.url
 3)eventually change the connection port to the server
